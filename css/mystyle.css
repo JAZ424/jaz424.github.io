@@ -3,15 +3,17 @@
     line-height: 1.5em;
 }
 
-p.redred{
+p{
     color:rgb(28, 28, 228);
     font-size: 40px;
     text-align: left;
     text-indent: 2em;
-    background-color: #cae464;
     font-family: 'Noto TC',sans-serif;
 }
 
+p{
+    background-color: #cae464;
+}
 
 body {
         font-family: 'Noto Sans TC', sans-serif;
