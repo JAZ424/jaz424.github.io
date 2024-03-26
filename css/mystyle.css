@@ -13,8 +13,12 @@ p{
 
 .bg-primary{
     background: color #133337 !important;
+    background-image: url();
+    background-repeat: no-repeat;
+    background-size: cover;
 }
-p{
+
+.p{
     background-color: #daa551;
 }
 
