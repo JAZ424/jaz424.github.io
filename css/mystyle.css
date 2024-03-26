@@ -11,6 +11,9 @@ p{
     font-family: 'Noto Sans TC', sans-serif;
 }
 
+.bg-primary{
+    background: color #133337 !important;
+}
 p{
     background-color: #daa551;
 }
