@@ -11,12 +11,12 @@ p{
     font-family: 'Noto Sans TC', sans-serif;
 }
 
-.bg-primary{
-    background: color #133337 !important;
-    background-image: url();
+.bg-primary {
+    background-color: black !important;
+    background-image: url(../assets/img/sky.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-}
+   }
 
 .p{
     background-color: #daa551;
