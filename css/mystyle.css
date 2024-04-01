@@ -3,13 +3,6 @@
     line-height: 1.5em;
 }
 
-.p{
-    color:#133337;
-    font-size: 40px;
-    text-align: left;
-    text-indent: 2em;
-    font-family: 'Noto Sans TC', sans-serif;
-}
 
 .bg-primary {
     background-color: black !important;
@@ -18,9 +11,6 @@
     background-size: cover;
    }
 
-.p{
-    background-color: #daa551;
-}
 
 body {
         font-family: 'Noto Sans TC', sans-serif;
