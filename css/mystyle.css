@@ -26,3 +26,7 @@ body {
 .expedu_icon {
     color: skyblue
 }
+
+.custom-color {
+    color: rgb(0, 94, 255);
+}
