@@ -30,10 +30,3 @@ body {
 .custom-color {
     color: rgb(0, 94, 255) !important;
 }
-
-img {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-}
