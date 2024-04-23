@@ -30,3 +30,8 @@ body {
 .custom-color {
     color: rgb(0, 94, 255) !important;
 }
+
+img {
+    margin-right: 40px;
+}
+
