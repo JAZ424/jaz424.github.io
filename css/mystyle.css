@@ -35,3 +35,12 @@ img {
     margin-right: 100px;
 }
 
+.box {
+    width: 200px; /* 设置宽度为200像素 */
+    height: 200px; /* 设置高度为200像素 */
+    background-color: #f0f0f0; /* 设置背景颜色为灰色 */
+    border: 1px solid #ccc; /* 设置边框为1像素的实线，颜色为灰色 */
+    padding: 20px; /* 设置内边距为20像素 */
+    margin: 20px; /* 设置外边距为20像素 */
+  }
+  
